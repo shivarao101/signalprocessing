@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
   name = 'signalprocessing',         # How you named your package folder (MyLib)
   packages = ['signalprocessing'],   # Chose the same as "name"
-  version = '0.1',      # Start with a small number and increase it with every change you make
+  version = '0.21',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Basic signal processing algorithm and Fir filter design',   # Give a short description about your library
   author = 'shivaprasad',                   # Type in your name
